@@ -11,6 +11,9 @@ Dog Breed Classifier
 Generate Seinfeld TV Scripts
 
 # Project 4.
-
+Generate Face Images
 
 # Project 5.
+Deploying a Sentiment Analysis Model using SageMaker
+
+
